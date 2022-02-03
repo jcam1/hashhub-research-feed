@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Cap Finance Arbitrum上の手数料無料で無期限先物取引が可能なプロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-02-03-about-cap-finance</link>
+			<guid isPermaLink="false">2022-02-03-about-cap-finance</guid>
+			<description>前提&lt;br /&gt;無期限先物取引所のビジネスモデル&lt;br /&gt;Cap Financeの仕組み&lt;br /&gt;Cap Financeの実績&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 03 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ai83ttavadxon1yyn7dbko9xw3io/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTレンタル市場の萌芽を概観する｜reNFT編</title>
 			<link>https://hashhub-research.com/articles/2022-02-02-about-renft</link>
 			<guid isPermaLink="false">2022-02-02-about-renft</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;New Orderの概要&lt;br /&gt;DAOのプロフィットモデル&lt;br /&gt;</description>
 			<pubDate>Thu, 06 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2175plv1wmhdq96q2a2arg5r33gy/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>レイヤー２のブリッジプロトコルの動向を俯瞰する</title>
-			<link>https://hashhub-research.com/articles/2022-01-05-about-l2</link>
-			<guid isPermaLink="false">2022-01-05-about-l2</guid>
-			<description>前提&lt;br /&gt;現在のL2上のブリッジの状況&lt;br /&gt;サードパーティブリッジの多面的な活用状況&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 05 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6esgymq5kwc5njx91ehq302fygm6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
