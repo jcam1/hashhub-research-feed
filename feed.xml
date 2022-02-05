@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Izumi Finance プログラム可能なUniswap v3上のLaaS</title>
+			<link>https://hashhub-research.com/articles/2022-02-05-about-izumi-finance</link>
+			<guid isPermaLink="false">2022-02-05-about-izumi-finance</guid>
+			<description>前提&lt;br /&gt;Uniswap上のLaaS&lt;br /&gt;ロードマップと今後の展開&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 05 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tuwgsxej6e56n0f04s4kbvhfz0s9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTレンタル市場の萌芽を概観する｜Rentable編</title>
 			<link>https://hashhub-research.com/articles/2022-02-04-about-rentable</link>
 			<guid isPermaLink="false">2022-02-04-about-rentable</guid>
@@ -187,14 +195,6 @@
 			<description>必要なツール&lt;br /&gt;</description>
 			<pubDate>Sat, 08 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sg4v4a9qhp8u9xhfcf7z5l3ef71t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Music NFTの像 2022.0107｜1.Music NFTマーケットプレイスの模索〜Catalog・Sound.xyzの事例〜</title>
-			<link>https://hashhub-research.com/articles/2021-01-07-about-music-nft</link>
-			<guid isPermaLink="false">2021-01-07-about-music-nft</guid>
-			<description>前提&lt;br /&gt;NFT化によるアプローチの違い&lt;br /&gt;１.マーケットプレイスからのアプローチ｜コンテンツのコモディティ化とNFT市場&lt;br /&gt;NFTマーケットプレイスが孕む「希少性」というメッセージ&lt;br /&gt;Music NFTプラットフォーム｜Catalog・Sound.xyz&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 07 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/00qwsnzurvy38yqui568knp55f23/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
