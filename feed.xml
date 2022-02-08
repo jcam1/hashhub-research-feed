@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LensProtocolの概要 ｜Aaveチームが開発するSocial-Fiプロジェクト</title>
+			<link>https://hashhub-research.com/articles/2022-02-08-about-lens-protocol</link>
+			<guid isPermaLink="false">2022-02-08-about-lens-protocol</guid>
+			<description>前提&lt;br /&gt;LensProtocolの概要&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 08 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v34o82xt3d0agm6r62yywa0debsn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Izumi Finance プログラム可能なUniswap v3上のLaaS</title>
 			<link>https://hashhub-research.com/articles/2022-02-05-about-izumi-finance</link>
 			<guid isPermaLink="false">2022-02-05-about-izumi-finance</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Mirrorの概要&lt;br /&gt;総論&lt;br /&gt;コミュニティベースの周辺プロジェクト&lt;br /&gt;</description>
 			<pubDate>Sun, 09 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0g7z0s29adk78pg7tdyr9lw2i8e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>TerraでNFTを発行してみよう</title>
-			<link>https://hashhub-research.com/articles/2020-01-08-try-mint-terra-nft</link>
-			<guid isPermaLink="false">2020-01-08-try-mint-terra-nft</guid>
-			<description>必要なツール&lt;br /&gt;</description>
-			<pubDate>Sat, 08 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sg4v4a9qhp8u9xhfcf7z5l3ef71t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
