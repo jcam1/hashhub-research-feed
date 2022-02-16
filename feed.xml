@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 22年2月</title>
+			<link>https://hashhub-research.com/articles/2022-02-16-nft-market</link>
+			<guid isPermaLink="false">2022-02-16-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;BAYCが続伸しCryptoPunksが失速&lt;br /&gt;CloneXの躍進 Nikeとのコラボレーションを予感させる&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Wed, 16 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h7bkkv3fgjqnd4rbfzdymq5n60k5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Skill Wallet｜譲渡不可能なNFT IDと役割ベースのDAOガバナンス</title>
 			<link>https://hashhub-research.com/articles/2022-02-15-about-skill-wallet</link>
 			<guid isPermaLink="false">2022-02-15-about-skill-wallet</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Vote Escrowedの機能と効果&lt;br /&gt;veTokenメカニズムを採用するプロトコル&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 19 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5ru1xlyk7bytq1svufdyioj4809p/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Music NFTの像 2022.0118｜3.ブラインドミント〜Mudd DAOの事例〜</title>
-			<link>https://hashhub-research.com/articles/2021-01-18-music-nft</link>
-			<guid isPermaLink="false">2021-01-18-music-nft</guid>
-			<description>前提&lt;br /&gt;Mudd DAO&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 18 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/en7hm99ggimz01zmv52nfk66ushy/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
