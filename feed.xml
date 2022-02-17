@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LINE Blockchainの概要</title>
+			<link>https://hashhub-research.com/articles/2022-02-17-about-line-blockchain</link>
+			<guid isPermaLink="false">2022-02-17-about-line-blockchain</guid>
+			<description>前提&lt;br /&gt;LINE Blockchainの特徴&lt;br /&gt;基軸通貨「LINK」&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 17 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0no7th050v5y7bmfjyrcnftmj4yq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 22年2月</title>
 			<link>https://hashhub-research.com/articles/2022-02-16-nft-market</link>
 			<guid isPermaLink="false">2022-02-16-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;EulerBeatsの概要&lt;br /&gt;Genesis｜第1弾プロダクト&lt;br /&gt;Enigma｜第2弾プロダクト&lt;br /&gt;Futura｜第3弾プロジェクト&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 20 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a2iysziy3x4sik6y2rmeapsmpto1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Vote Escrowed Token veTokenのエコノミックス</title>
-			<link>https://hashhub-research.com/articles/2022-1-19-about-ve-token</link>
-			<guid isPermaLink="false">2022-1-19-about-ve-token</guid>
-			<description>前提&lt;br /&gt;Vote Escrowedの機能と効果&lt;br /&gt;veTokenメカニズムを採用するプロトコル&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 19 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5ru1xlyk7bytq1svufdyioj4809p/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
