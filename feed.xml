@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>PRISM | Terraネットワークにおける将来収益のトークン化プロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-02-18-about-prism-protocol</link>
+			<guid isPermaLink="false">2022-02-18-about-prism-protocol</guid>
+			<description>前提&lt;br /&gt;PRISMの概要 ｜ 無期限の利付トークンと将来収益のトークン化&lt;br /&gt;pTとyTのバリュエーション考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 18 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0x2wj9rtwxtxoxx084vnvvg2xuf1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>LINE Blockchainの概要</title>
 			<link>https://hashhub-research.com/articles/2022-02-17-about-line-blockchain</link>
 			<guid isPermaLink="false">2022-02-17-about-line-blockchain</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;zk.moneyとは&lt;br /&gt;Aztec Conncectの仕組み&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 21 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ppio43xznusl40291vha79ixetmh/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Music NFTの像 2022.0120｜4.市場供給量の調整〜EulerBeatsの事例〜</title>
-			<link>https://hashhub-research.com/articles/2022-01-20-about-eulerbeats</link>
-			<guid isPermaLink="false">2022-01-20-about-eulerbeats</guid>
-			<description>前提&lt;br /&gt;EulerBeatsの概要&lt;br /&gt;Genesis｜第1弾プロダクト&lt;br /&gt;Enigma｜第2弾プロダクト&lt;br /&gt;Futura｜第3弾プロジェクト&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 20 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a2iysziy3x4sik6y2rmeapsmpto1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
