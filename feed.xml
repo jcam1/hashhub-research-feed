@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Global Coin Researchの概要 -個人のリサーチと投資を支援するDAO-</title>
+			<link>https://hashhub-research.com/articles/2022-02-20-global-coin-research</link>
+			<guid isPermaLink="false">2022-02-20-global-coin-research</guid>
+			<description>前提&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sun, 20 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kwts5k5jfune4ze3tay65yun0cn9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>PRISM | Terraネットワークにおける将来収益のトークン化プロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-02-18-about-prism-protocol</link>
 			<guid isPermaLink="false">2022-02-18-about-prism-protocol</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Bribe protocolによるガバナンス市場の形成&lt;br /&gt;トークノミックス&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 22 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cxer3arm3h6xuxin0nq2m784fcig/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Aztec Connect -ゼロ知識証明の技術を用いた”Private DeFi”-</title>
-			<link>https://hashhub-research.com/articles/2022-01-21-about-aztec-connect</link>
-			<guid isPermaLink="false">2022-01-21-about-aztec-connect</guid>
-			<description>前提&lt;br /&gt;zk.moneyとは&lt;br /&gt;Aztec Conncectの仕組み&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 21 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ppio43xznusl40291vha79ixetmh/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
