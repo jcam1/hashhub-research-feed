@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTマーケットアグリゲーターの主要機能を概観する｜2021年2月時点のGenie及びGem</title>
+			<link>https://hashhub-research.com/articles/2022-02-22-about-nft-aggregator</link>
+			<guid isPermaLink="false">2022-02-22-about-nft-aggregator</guid>
+			<description>前提&lt;br /&gt;主要機能別にGenie及びGemの違いを概観する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 22 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bkkbr3eyif73b3gci7g566i4vs4t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Global Coin Researchの概要 -個人のリサーチと投資を支援するDAO-</title>
 			<link>https://hashhub-research.com/articles/2022-02-20-global-coin-research</link>
 			<guid isPermaLink="false">2022-02-20-global-coin-research</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;あゆみ&lt;br /&gt;あとがき（feat.HashHub Research）&lt;br /&gt;</description>
 			<pubDate>Sun, 23 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c6qa7qn0ukakpc3rjc2d520ry41i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Bribe protocol 賄賂によるガバナンス市場</title>
-			<link>https://hashhub-research.com/articles/2022-01-22-about-bribe-protocol</link>
-			<guid isPermaLink="false">2022-01-22-about-bribe-protocol</guid>
-			<description>前提&lt;br /&gt;Bribe protocolによるガバナンス市場の形成&lt;br /&gt;トークノミックス&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 22 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cxer3arm3h6xuxin0nq2m784fcig/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
