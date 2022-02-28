@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Magic Edenを取り巻く環境 -Solanaにおける覇権NFTマーケットプレイス-</title>
+			<link>https://hashhub-research.com/articles/2022-02-28-magic-eden</link>
+			<guid isPermaLink="false">2022-02-28-magic-eden</guid>
+			<description>前提&lt;br /&gt;Magic Edenの概要&lt;br /&gt;botを利用したmint戦争&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 28 Feb 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kualai21ak0glpofz7bf4sfl79lg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>「REDACTED」特集｜2月25日～3月10日の期間限定レポート</title>
 			<link>https://hashhub-research.com/articles/2022-2-25-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2022-2-25-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「ステーブルトークンMIMとUSTを再読する」特集｜1月28日～2月10日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 28 Jan 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h8azni7ark50ncxu68p20aahthzb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>信用（クレジット）としてのステーブルトークン</title>
-			<link>https://hashhub-research.com/articles/2022-01-27-about-credit-token</link>
-			<guid isPermaLink="false">2022-01-27-about-credit-token</guid>
-			<description>前提&lt;br /&gt;ステーブルトークン＝信用（クレジット）&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 27 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nr9e80o9wt1mtk4unuzkvth87gni/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
