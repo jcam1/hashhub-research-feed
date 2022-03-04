@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Shadeプロトコル｜Secret Network上のプライバシー保護機能付き合成資産（ステーブルコイン）</title>
+			<link>https://hashhub-research.com/articles/2022-03-04-about-shade</link>
+			<guid isPermaLink="false">2022-03-04-about-shade</guid>
+			<description>前提&lt;br /&gt;Shadeプロトコルの概要&lt;br /&gt;SILK｜プライバシー保護機能を持つステーブルコイン&lt;br /&gt;SILK鋳造とペグを維持する仕組み&lt;br /&gt;$SHD｜ネイティブガバナンストークン&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r12osfc6sferd6j617ueyr16djuv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>デルタを取らないDeFi運用手法</title>
 			<link>https://hashhub-research.com/articles/2022-03-02-about-non-delta-strategy</link>
 			<guid isPermaLink="false">2022-03-02-about-non-delta-strategy</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;各分野の動向&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 01 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6jfsvtyv8170k3jjyddnxuqfjcic/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考・美術史や教科書に乗るようなNFTアートはどのように生まれるか</title>
-			<link>https://hashhub-research.com/articles/2022-1-30-how-histrical-digital-art-come</link>
-			<guid isPermaLink="false">2022-1-30-how-histrical-digital-art-come</guid>
-			<description>前提&lt;br /&gt;近代までのアートの歴史はどのように変遷したか&lt;br /&gt;作品それ自体にビジネスや市場原理を組み込まれた現代アート&lt;br /&gt;美術の歴史に組み込まれるようなデジタルアートは何かを考える&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 30 Jan 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j08o7as207lff8reli5utjdiqu21/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
