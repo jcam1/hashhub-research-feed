@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ガバナンストークンのバリュエーション考察</title>
+			<link>https://hashhub-research.com/articles/20220308-govanance-token-valuation</link>
+			<guid isPermaLink="false">20220308-govanance-token-valuation</guid>
+			<description>前提&lt;br /&gt;ガバナンストークンが有する価値要素&lt;br /&gt;バリュエーション考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 08 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5ny7s5mulohh4s0fu0ys5we9whip/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>大手Media DAOのBanklessからDAO運営のノウハウを学ぶ</title>
 			<link>https://hashhub-research.com/articles/20220306-banklessdao-dao-management</link>
 			<guid isPermaLink="false">20220306-banklessdao-dao-management</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;無期限先物取引所のビジネスモデル&lt;br /&gt;Cap Financeの仕組み&lt;br /&gt;Cap Financeの実績&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 03 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ai83ttavadxon1yyn7dbko9xw3io/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTレンタル市場の萌芽を概観する｜reNFT編</title>
-			<link>https://hashhub-research.com/articles/2022-02-02-about-renft</link>
-			<guid isPermaLink="false">2022-02-02-about-renft</guid>
-			<description>前編&lt;br /&gt;reNFT｜NFTレンタルプロトコルの概要&lt;br /&gt;Tokenomics｜$RENT&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 02 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vsvwjybnky6cww9lmgt25gzuln7z/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
