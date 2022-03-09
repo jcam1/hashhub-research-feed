@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>JACKAL｜プライバシー保護機能をもつ分散型ストレージプロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-03-09-about-jackal</link>
+			<guid isPermaLink="false">2022-03-09-about-jackal</guid>
+			<description>前提&lt;br /&gt;JACKALプロトコルの概要&lt;br /&gt;$JKLトークノミクス&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 09 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dfq48zyjx91a750u00c65zc856fg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ガバナンストークンのバリュエーション考察</title>
 			<link>https://hashhub-research.com/articles/20220308-govanance-token-valuation</link>
 			<guid isPermaLink="false">20220308-govanance-token-valuation</guid>
@@ -187,14 +195,6 @@
 			<description>前編&lt;br /&gt;Rentable｜NFT無担保ローンの実現&lt;br /&gt;o/w/y Token｜体験のトークン化&lt;br /&gt;</description>
 			<pubDate>Fri, 04 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rxap04lgtmp4aej4fudlr0wp4ar7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Cap Finance Arbitrum上の手数料無料で無期限先物取引が可能なプロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-02-03-about-cap-finance</link>
-			<guid isPermaLink="false">2022-02-03-about-cap-finance</guid>
-			<description>前提&lt;br /&gt;無期限先物取引所のビジネスモデル&lt;br /&gt;Cap Financeの仕組み&lt;br /&gt;Cap Financeの実績&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 03 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ai83ttavadxon1yyn7dbko9xw3io/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
