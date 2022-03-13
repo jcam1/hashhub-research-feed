@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Silo Finance | 流動性を犠牲としない独立したプールによるマネーマーケットプロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-03-13-about-silo-finance</link>
+			<guid isPermaLink="false">2022-03-13-about-silo-finance</guid>
+			<description>前提&lt;br /&gt;マネーマーケットプロトコルにおける問題&lt;br /&gt;Silo Financeの解決策&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 13 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/96oii22i946atz58vg6hws8q1v7r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>サイドチェーンのXANAとNFTマーケットプレイスXANALIAの概要</title>
 			<link>https://hashhub-research.com/articles/2022-03-12-xana-xanalia</link>
 			<guid isPermaLink="false">2022-03-12-xana-xanalia</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;レイヤー2・マルチチェーントレンドの継続&lt;br /&gt;アプリケーション独自のブロックチェーン&lt;br /&gt;プロトコル toプロトコルのアプリケーション&lt;br /&gt;高度化されたストラクチャードファイナンス&lt;br /&gt;トークンモデルの変化&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 09 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8c02zhcgyoms46cs37cvz0ya1060/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>LensProtocolの概要 ｜Aaveチームが開発するSocial-Fiプロジェクト</title>
-			<link>https://hashhub-research.com/articles/2022-02-08-about-lens-protocol</link>
-			<guid isPermaLink="false">2022-02-08-about-lens-protocol</guid>
-			<description>前提&lt;br /&gt;LensProtocolの概要&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 08 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v34o82xt3d0agm6r62yywa0debsn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
