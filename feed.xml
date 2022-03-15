@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Sismoプロトコルの概要｜複数のパブリックアドレス情報をゼロ知識証明を用いて一つのデジタルIDに集約するプロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-03-15-about-sismo</link>
+			<guid isPermaLink="false">2022-03-15-about-sismo</guid>
+			<description>前提&lt;br /&gt;Sismoの概要&lt;br /&gt;DAO形態の段階的変遷&lt;br /&gt;</description>
+			<pubDate>Tue, 15 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/elux65bijvjbb335knaj0zvz7u34/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Silo Finance | 流動性を犠牲としない独立したプールによるマネーマーケットプロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-03-13-about-silo-finance</link>
 			<guid isPermaLink="false">2022-03-13-about-silo-finance</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;DAOにおけるトレジャリーの種類&lt;br /&gt;トレジャリーの資金調達方法&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 10 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qxpx6sp988pgkj5qdjva9ev1ndi8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2022年Q1における5つのDeFiトレンド</title>
-			<link>https://hashhub-research.com/articles/2022-02-09-5-trends-in-defi-2022q1</link>
-			<guid isPermaLink="false">2022-02-09-5-trends-in-defi-2022q1</guid>
-			<description>前提&lt;br /&gt;レイヤー2・マルチチェーントレンドの継続&lt;br /&gt;アプリケーション独自のブロックチェーン&lt;br /&gt;プロトコル toプロトコルのアプリケーション&lt;br /&gt;高度化されたストラクチャードファイナンス&lt;br /&gt;トークンモデルの変化&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 09 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8c02zhcgyoms46cs37cvz0ya1060/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
