@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 22年3月</title>
+			<link>https://hashhub-research.com/articles/2022-03-18-nft-market</link>
+			<guid isPermaLink="false">2022-03-18-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;CryptoPunksのIPが買収された。トップNFTコレクタブルの行方&lt;br /&gt;ユニバーサルミュージックが動いた 音楽系NFTへの参入&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Fri, 18 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vgih8a6lei365pioj3wjvsmvym6s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>COSMOSのエコシステム考察とATOMの投資検討</title>
 			<link>https://hashhub-research.com/articles/2022-3-17-invest-analysis-atom</link>
 			<guid isPermaLink="false">2022-3-17-invest-analysis-atom</guid>
@@ -187,14 +195,6 @@
 			<description>Skill Wallet概要｜役割ベースのDAOガバナンスはなぜ求められるか&lt;br /&gt;Skill Wallet NFT ID&lt;br /&gt;OSM（Off-chain Signature Mechanism）について&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 15 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5gn07atawyhl443gbi9ahu7pfys7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Bondメカニズムと（3,3）メカニズムのエコノミクス</title>
-			<link>https://hashhub-research.com/articles/2022-2-13-about-bond-and-33</link>
-			<guid isPermaLink="false">2022-2-13-about-bond-and-33</guid>
-			<description>前提&lt;br /&gt;Bondメカニズムとトレジャリー&lt;br /&gt;（3,3）メカニズムとインセンティブ設計&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 13 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ey86zs2wkd8nti1ioejpqaxocw03/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
