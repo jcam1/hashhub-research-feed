@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レイヤー2の現状とOptimistic RollupのFraud Proofを行うCannonの概要</title>
+			<link>https://hashhub-research.com/articles/20220322-optimistic-cannon</link>
+			<guid isPermaLink="false">20220322-optimistic-cannon</guid>
+			<description>前提&lt;br /&gt;Ethereumのスケーラビリティとガス代について&lt;br /&gt;レイヤー2について&lt;br /&gt;Optimism Rollup&lt;br /&gt;Cannon&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 22 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hlwr2bu44ufcz1o7lbyu1bvpkz2b/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Liquid Staking | 効用と資本効率性</title>
 			<link>https://hashhub-research.com/articles/2022-03-20-liquid-staking</link>
 			<guid isPermaLink="false">2022-03-20-liquid-staking</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;PRISMの概要 ｜ 無期限の利付トークンと将来収益のトークン化&lt;br /&gt;pTとyTのバリュエーション考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 18 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0x2wj9rtwxtxoxx084vnvvg2xuf1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>LINE Blockchainの概要</title>
-			<link>https://hashhub-research.com/articles/2022-02-17-about-line-blockchain</link>
-			<guid isPermaLink="false">2022-02-17-about-line-blockchain</guid>
-			<description>前提&lt;br /&gt;LINE Blockchainの特徴&lt;br /&gt;基軸通貨「LINK」&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 17 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0no7th050v5y7bmfjyrcnftmj4yq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
