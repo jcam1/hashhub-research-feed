@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ICHI｜なぜ＄ICHIは市場リスクの影響をあまり受けなかったのか？その仕組みについて</title>
+			<link>https://hashhub-research.com/articles/2022-03-23-about-ichi</link>
+			<guid isPermaLink="false">2022-03-23-about-ichi</guid>
+			<description>前提&lt;br /&gt;ICHI v2の概要&lt;br /&gt;DMAを補完するAngel Liquidity Vaults&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 23 Mar 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nro7ztfdzvbi4vvy2prjr6jallje/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>レイヤー2の現状とOptimistic RollupのFraud Proofを行うCannonの概要</title>
 			<link>https://hashhub-research.com/articles/20220322-optimistic-cannon</link>
 			<guid isPermaLink="false">20220322-optimistic-cannon</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sun, 20 Feb 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kwts5k5jfune4ze3tay65yun0cn9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>PRISM | Terraネットワークにおける将来収益のトークン化プロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-02-18-about-prism-protocol</link>
-			<guid isPermaLink="false">2022-02-18-about-prism-protocol</guid>
-			<description>前提&lt;br /&gt;PRISMの概要 ｜ 無期限の利付トークンと将来収益のトークン化&lt;br /&gt;pTとyTのバリュエーション考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 18 Feb 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0x2wj9rtwxtxoxx084vnvvg2xuf1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
