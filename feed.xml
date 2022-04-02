@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>アルゴリズミック・ステーブルコインの動向（3）｜クレジットベースの分散型ステーブルコインプロトコルBeanstalk</title>
+			<link>https://hashhub-research.com/articles/2022-04-02-about-beanstalk</link>
+			<guid isPermaLink="false">2022-04-02-about-beanstalk</guid>
+			<description>前提&lt;br /&gt;Beanstalkの概要&lt;br /&gt;Beanstalkの仕組み&lt;br /&gt;$BEANは需要されるのか&lt;br /&gt;</description>
+			<pubDate>Sat, 02 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f7j4njnhs0tdlwehmunzvszx2qit/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Highstreetの概要｜web3を謳うMMORPGメタバース</title>
 			<link>https://hashhub-research.com/articles/2022-03-31-highstreet</link>
 			<guid isPermaLink="false">2022-03-31-highstreet</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 02 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>JPEG’d｜CDPをマージしたNFTレンディングプロトコルの概要</title>
-			<link>https://hashhub-research.com/articles/2022-03-01-about-jpegd</link>
-			<guid isPermaLink="false">2022-03-01-about-jpegd</guid>
-			<description>前提&lt;br /&gt;JPEG’dプロトコルの概要&lt;br /&gt;＄JPEG&lt;br /&gt;パートナーシップ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 01 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cweqsapwnoafgm75bcqejzuzp5kg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
