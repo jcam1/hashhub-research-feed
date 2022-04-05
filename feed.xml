@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ブレトンウッズ体制3.0 | 新しい世界通貨秩序とビットコイン</title>
+			<link>https://hashhub-research.com/articles/2022-04-05-bretton-woods</link>
+			<guid isPermaLink="false">2022-04-05-bretton-woods</guid>
+			<description>前提&lt;br /&gt;金融危機の預言者ゾルタン・ポズサー氏&lt;br /&gt;ブレトンウッズ体制の歴史&lt;br /&gt;経済制裁がもたらすドル基軸への影響&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 05 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l5kzptq3hr47dadr7w3r532m7avc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
 			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
 			<guid isPermaLink="false">portfolio-disclosure</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Banklessの概要&lt;br /&gt;Bankless DAOの活動&lt;br /&gt;ギルドとプロジェクトの活動例&lt;br /&gt;各ギルドへの予算配分とトークン設計&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sun, 06 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5i2ddzqk6rjvix6xpq8ldx9oe2lv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Shadeプロトコル｜Secret Network上のプライバシー保護機能付き合成資産（ステーブルコイン）</title>
-			<link>https://hashhub-research.com/articles/2022-03-04-about-shade</link>
-			<guid isPermaLink="false">2022-03-04-about-shade</guid>
-			<description>前提&lt;br /&gt;Shadeプロトコルの概要&lt;br /&gt;SILK｜プライバシー保護機能を持つステーブルコイン&lt;br /&gt;SILK鋳造とペグを維持する仕組み&lt;br /&gt;$SHD｜ネイティブガバナンストークン&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r12osfc6sferd6j617ueyr16djuv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
