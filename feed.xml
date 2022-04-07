@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFi Kingdoms｜マルチチェーン展開するメタバースゲームの概要</title>
+			<link>https://hashhub-research.com/articles/2022-04-07-about-defikingdoms</link>
+			<guid isPermaLink="false">2022-04-07-about-defikingdoms</guid>
+			<description>前提&lt;br /&gt;DeFiKingdomsの概要&lt;br /&gt;$JEWEL・$CRYSTALのTokenomics&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 07 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qzannye1vvmdfma6tpktwzyyy62o/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ブレトンウッズ体制3.0 | 新しい世界通貨秩序とビットコイン</title>
 			<link>https://hashhub-research.com/articles/2022-04-05-bretton-woods</link>
 			<guid isPermaLink="false">2022-04-05-bretton-woods</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ガバナンストークンが有する価値要素&lt;br /&gt;バリュエーション考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 08 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5ny7s5mulohh4s0fu0ys5we9whip/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>大手Media DAOのBanklessからDAO運営のノウハウを学ぶ</title>
-			<link>https://hashhub-research.com/articles/20220306-banklessdao-dao-management</link>
-			<guid isPermaLink="false">20220306-banklessdao-dao-management</guid>
-			<description>前提&lt;br /&gt;Banklessの概要&lt;br /&gt;Bankless DAOの活動&lt;br /&gt;ギルドとプロジェクトの活動例&lt;br /&gt;各ギルドへの予算配分とトークン設計&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sun, 06 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5i2ddzqk6rjvix6xpq8ldx9oe2lv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
