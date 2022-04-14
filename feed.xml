@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>新しいトークンスタンダードERC-4626がDeFiにどのような影響を与えるか</title>
+			<link>https://hashhub-research.com/articles/2022-04-14-erc4626-overview</link>
+			<guid isPermaLink="false">2022-04-14-erc4626-overview</guid>
+			<description>前提&lt;br /&gt;新しいトークンスタンダードERC-4626の概要&lt;br /&gt;ERC-4626がDeFiにどのような影響を与えるか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 14 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9vzqhyn1vqgz1xxtz479ds8ft0w0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DAO5の概要　クリプトファンドを分散化する新しいアプローチ</title>
 			<link>https://hashhub-research.com/articles/2022-04-13-dao5-overview</link>
 			<guid isPermaLink="false">2022-04-13-dao5-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt; ICP トークン&lt;br /&gt;まとめ&lt;br /&gt;</description>
 			<pubDate>Wed, 16 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0fcl3jsw4v73ytcqio49i2ntk7y6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Sismoプロトコルの概要｜複数のパブリックアドレス情報をゼロ知識証明を用いて一つのデジタルIDに集約するプロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-03-15-about-sismo</link>
-			<guid isPermaLink="false">2022-03-15-about-sismo</guid>
-			<description>前提&lt;br /&gt;Sismoの概要&lt;br /&gt;DAO形態の段階的変遷&lt;br /&gt;</description>
-			<pubDate>Tue, 15 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/elux65bijvjbb335knaj0zvz7u34/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
