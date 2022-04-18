@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>論考：米金利上昇とQTがステーブルコイン市場に与える影響</title>
+			<link>https://hashhub-research.com/articles/2022-04-18-impact-of-rising-interest-rates-and-qt-on-the-stablecoin-market</link>
+			<guid isPermaLink="false">2022-04-18-impact-of-rising-interest-rates-and-qt-on-the-stablecoin-market</guid>
+			<description>前提&lt;br /&gt;上昇する長期金利と急激なQT予想&lt;br /&gt;米金利上昇・QTがステーブルコイン市場に逆風になる可能性&lt;br /&gt;金利上昇によってポジティブな影響を受ける可能性があるプレイヤー&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 18 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i616nxxa1d2xpujj3kkpddgmpi02/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>論考・DAOは一般社会を模倣した”新しい働き方”として消費されるのか</title>
 			<link>https://hashhub-research.com/articles/2022-04-16-how-dao-is-consumed</link>
 			<guid isPermaLink="false">2022-04-16-how-dao-is-consumed</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 19 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sw1t4zeb3r3ar555nntrdafs0s0z/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 22年3月</title>
-			<link>https://hashhub-research.com/articles/2022-03-18-nft-market</link>
-			<guid isPermaLink="false">2022-03-18-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;CryptoPunksのIPが買収された。トップNFTコレクタブルの行方&lt;br /&gt;ユニバーサルミュージックが動いた 音楽系NFTへの参入&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;</description>
-			<pubDate>Fri, 18 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vgih8a6lei365pioj3wjvsmvym6s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
