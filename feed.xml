@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Curve Wars Part2 | カルテル（連合）形成と4Pool</title>
+			<link>https://hashhub-research.com/articles/2022-04-20-curve-war-part2</link>
+			<guid isPermaLink="false">2022-04-20-curve-war-part2</guid>
+			<description>前提&lt;br /&gt;Curve War現状、カルテルと4Pool&lt;br /&gt;Terraの狙いと効用およびリスクについての考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 20 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4l5mf9gstmczylg6y60nosk42io1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Aelin-パーミッションレスな分散型資金調達プロトコル-</title>
 			<link>https://hashhub-research.com/articles/2022-04-19-about-aelin</link>
 			<guid isPermaLink="false">2022-04-19-about-aelin</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereumのスケーラビリティとガス代について&lt;br /&gt;レイヤー2について&lt;br /&gt;Optimism Rollup&lt;br /&gt;Cannon&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 22 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hlwr2bu44ufcz1o7lbyu1bvpkz2b/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Liquid Staking | 効用と資本効率性</title>
-			<link>https://hashhub-research.com/articles/2022-03-20-liquid-staking</link>
-			<guid isPermaLink="false">2022-03-20-liquid-staking</guid>
-			<description>前提&lt;br /&gt;リキッドステーキングとその効用&lt;br /&gt;運用における資本効率性の向上とリスク&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 20 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/70zfm0gzgqglnvgo91szx972yi6g/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
