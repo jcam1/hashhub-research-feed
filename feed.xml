@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>zkKYCの概観｜SSIとゼロ知識証明を活用したKYCプロセス</title>
+			<link>https://hashhub-research.com/articles/2022-04-23-about-zkkyc</link>
+			<guid isPermaLink="false">2022-04-23-about-zkkyc</guid>
+			<description>前提&lt;br /&gt;KYCの現状&lt;br /&gt;SSI（自己主権型アイデンティティ）&lt;br /&gt;zkKYC&lt;br /&gt;zkKYC in DeFi&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 23 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cvilztp7g37g9gdxn3ygcmujrjsx/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>「NFT-Fiは金融プリミティブになり得るか？」特集｜4月22日～5月12日の期間限定レポート</title>
 			<link>https://hashhub-research.com/articles/2022-4-22-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2022-4-22-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「ナラティブを再考する」特集｜3月25日～4月7日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eaer2l9lphcu9shlkfyz3w66zngv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ICHI｜なぜ＄ICHIは市場リスクの影響をあまり受けなかったのか？その仕組みについて</title>
-			<link>https://hashhub-research.com/articles/2022-03-23-about-ichi</link>
-			<guid isPermaLink="false">2022-03-23-about-ichi</guid>
-			<description>前提&lt;br /&gt;ICHI v2の概要&lt;br /&gt;DMAを補完するAngel Liquidity Vaults&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 23 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nro7ztfdzvbi4vvy2prjr6jallje/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
