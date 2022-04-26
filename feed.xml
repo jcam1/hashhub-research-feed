@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>論考・イーロン・マスクによるTwitterの買収提案を、Web3・クリプト的な視点でどのように捉えるか</title>
+			<link>https://hashhub-research.com/articles/2022-04-26-how-crypto-industry-see-twitter-acquisition</link>
+			<guid isPermaLink="false">2022-04-26-how-crypto-industry-see-twitter-acquisition</guid>
+			<description>前提&lt;br /&gt;イーロン・マスクによるTwitterの買収提案で今起こっていること&lt;br /&gt;イーロン・マスクのTwitterの買収提案の動機は何か&lt;br /&gt;インターネットサービスとしてのTwitterの特殊性&lt;br /&gt;Web3・クリプト的な視点で本事案をどのように捉えるか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 26 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8n7kvjg3as1kqy3mo808hyw71p2r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>zkKYCの概観｜SSIとゼロ知識証明を活用したKYCプロセス</title>
 			<link>https://hashhub-research.com/articles/2022-04-23-about-zkkyc</link>
 			<guid isPermaLink="false">2022-04-23-about-zkkyc</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;</description>
 			<pubDate>Sat, 26 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ejkauaf1wuk3vhtyhtqtmk5yu91r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「ナラティブを再考する」特集｜3月25日～4月7日の期間限定レポート</title>
-			<link>https://hashhub-research.com/articles/2022-3-25-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-3-25-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「ナラティブを再考する」特集｜3月25日～4月7日の期間限定レポート&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eaer2l9lphcu9shlkfyz3w66zngv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
