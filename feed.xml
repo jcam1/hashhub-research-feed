@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GameFiプラットフォームPolemosの概要</title>
+			<link>https://hashhub-research.com/articles/2022-04-28-about-polemos</link>
+			<guid isPermaLink="false">2022-04-28-about-polemos</guid>
+			<description>前提&lt;br /&gt;Polemosの特徴&lt;br /&gt;ガバナンストークン「PLMS」&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mn3cbvrlhknb0vzanyso338s5o7j/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTの技術動向を理解する -LayerZeroとOmnichainNFT-</title>
 			<link>https://hashhub-research.com/articles/2022-04-27-layerzero-omnichainnft</link>
 			<guid isPermaLink="false">2022-04-27-layerzero-omnichainnft</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;Curve LPトークンを担保としたレンディング&lt;br /&gt;Vote Escrow Tokenモデルによるトークノミックス&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 29 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/stpwhn11k3av04t5zy0oniatkktv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコインの競争 なぜDAIはUSTに抜かれたか（2022年版）</title>
-			<link>https://hashhub-research.com/articles/2022-03-27-competition-in-stablecoin</link>
-			<guid isPermaLink="false">2022-03-27-competition-in-stablecoin</guid>
-			<description>前提&lt;br /&gt;台頭するUST&lt;br /&gt;トークンモデルや新しい成長戦略検討するMakerDAOコミュニティ&lt;br /&gt;ステーブルコインの競争に関する考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sun, 27 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hgs1w38laid0vmmaozqheomobtod/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
