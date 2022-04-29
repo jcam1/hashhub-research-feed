@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SWIMの概要 マルチチェーン流動性プロトコルブリッジ</title>
+			<link>https://hashhub-research.com/articles/2022-04-29-swim-overview</link>
+			<guid isPermaLink="false">2022-04-29-swim-overview</guid>
+			<description>SWIMの概要&lt;br /&gt;SWIMトークン・主要投資家&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qoxr1o6orbgu8uc01wvpp5l65zyb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>GameFiプラットフォームPolemosの概要</title>
 			<link>https://hashhub-research.com/articles/2022-04-28-about-polemos</link>
 			<guid isPermaLink="false">2022-04-28-about-polemos</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;DeFiの収益は徐々に暗号資産に精通した人にとっても旨味がないものに&lt;br /&gt;これからも高いAPYが提供されうる収益機会&lt;br /&gt;クレジットで貸付するプロトコル&lt;br /&gt;機関投資家が使いにくいブロックチェーンまたはレイヤー2上のプロトコル&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 30 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tsikmigwfiigcxafyb7bgauakvwj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Lend Flare | Curve LPトークンを担保とするレンディングプロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-3-29-about-lend-flare</link>
-			<guid isPermaLink="false">2022-3-29-about-lend-flare</guid>
-			<description>前提&lt;br /&gt;Curve LPトークンを担保としたレンディング&lt;br /&gt;Vote Escrow Tokenモデルによるトークノミックス&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 29 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/stpwhn11k3av04t5zy0oniatkktv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
