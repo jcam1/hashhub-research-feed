@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Play to Earn(P2E)ゲームのビジネスモデルを考える｜有料プレイモデルと無料プレイモデル「EmberSword」の特徴</title>
+			<link>https://hashhub-research.com/articles/2022-04-30-about-business-models-for-p2e-games</link>
+			<guid isPermaLink="false">2022-04-30-about-business-models-for-p2e-games</guid>
+			<description>前提&lt;br /&gt;「有料プレイモデル」の特徴&lt;br /&gt;P2Eゲーム版「無料プレイモデル」の特徴&lt;br /&gt;F2Pモデルの具体例｜Amber Sword&lt;br /&gt;Play to Earn要素はどこにあるのか&lt;br /&gt;トークン（ERC20、ERC 721）について&lt;br /&gt;F2Pモデルの課題と考えうる解決策&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 30 Apr 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rbwf0i02jddcf5mfv1ijc22gbhs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SWIMの概要 マルチチェーン流動性プロトコルブリッジ</title>
 			<link>https://hashhub-research.com/articles/2022-04-29-swim-overview</link>
 			<guid isPermaLink="false">2022-04-29-swim-overview</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;Highstreetの概要&lt;br /&gt;Highstreetの主な構成要素&lt;br /&gt;Highstreet Tokenomics&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 31 Mar 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qxbxljvdftqn774m7u8roxoh51a7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考・効率化されるDeFi市場 これからも残される高いAPYの収益機会とは</title>
-			<link>https://hashhub-research.com/articles/2022-3-30-how-defi-market-become-competitive</link>
-			<guid isPermaLink="false">2022-3-30-how-defi-market-become-competitive</guid>
-			<description>前提&lt;br /&gt;DeFiの収益は徐々に暗号資産に精通した人にとっても旨味がないものに&lt;br /&gt;これからも高いAPYが提供されうる収益機会&lt;br /&gt;クレジットで貸付するプロトコル&lt;br /&gt;機関投資家が使いにくいブロックチェーンまたはレイヤー2上のプロトコル&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tsikmigwfiigcxafyb7bgauakvwj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
