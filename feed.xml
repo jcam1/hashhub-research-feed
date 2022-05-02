@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Cosmos SDKを使ってブロックチェーンを作ってみよう 前編 </title>
+			<link>https://hashhub-research.com/articles/2022-05-02-try-make-your-blockchain-by-cosmossdk</link>
+			<guid isPermaLink="false">2022-05-02-try-make-your-blockchain-by-cosmossdk</guid>
+			<description>環境構築&lt;br /&gt;</description>
+			<pubDate>Mon, 02 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e9vck6z2i6nv8gw1s43usx0yltay/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Play to Earn(P2E)ゲームのビジネスモデルを考える｜有料プレイモデルと無料プレイモデル「EmberSword」の特徴</title>
 			<link>https://hashhub-research.com/articles/2022-04-30-about-business-models-for-p2e-games</link>
 			<guid isPermaLink="false">2022-04-30-about-business-models-for-p2e-games</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;Beanstalkの概要&lt;br /&gt;Beanstalkの仕組み&lt;br /&gt;$BEANは需要されるのか&lt;br /&gt;</description>
 			<pubDate>Sat, 02 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f7j4njnhs0tdlwehmunzvszx2qit/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Highstreetの概要｜web3を謳うMMORPGメタバース</title>
-			<link>https://hashhub-research.com/articles/2022-03-31-highstreet</link>
-			<guid isPermaLink="false">2022-03-31-highstreet</guid>
-			<description>前提&lt;br /&gt;Highstreetの概要&lt;br /&gt;Highstreetの主な構成要素&lt;br /&gt;Highstreet Tokenomics&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 31 Mar 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qxbxljvdftqn774m7u8roxoh51a7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
