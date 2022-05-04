@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GMX | 複数担保に対応した無期限先物取引プロトコル</title>
+			<link>https://hashhub-research.com/articles/20220504-about-gmx</link>
+			<guid isPermaLink="false">20220504-about-gmx</guid>
+			<description>前提&lt;br /&gt;GMXが提供する機能と競合プロトコルとの違い&lt;br /&gt;GMXトークンのトークノミクス&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 04 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6rv0f2vw711h5vnd0cj3l5hzw3cn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【初心者向け】オンチェーン分析ツール「Nansen」を使って次のアルファを探す方法</title>
 			<link>https://hashhub-research.com/articles/2022-5-3-how-to-use-nansen</link>
 			<guid isPermaLink="false">2022-5-3-how-to-use-nansen</guid>
@@ -24,7 +32,7 @@
 			<title>Play to Earn(P2E)ゲームのビジネスモデルを考える｜有料プレイモデルと無料プレイモデル「EmberSword」の特徴</title>
 			<link>https://hashhub-research.com/articles/2022-04-30-about-business-models-for-p2e-games</link>
 			<guid isPermaLink="false">2022-04-30-about-business-models-for-p2e-games</guid>
-			<description>前提&lt;br /&gt;「有料プレイモデル」の特徴&lt;br /&gt;P2Eゲーム版「無料プレイモデル」の特徴&lt;br /&gt;F2Pモデルの具体例｜Amber Sword&lt;br /&gt;Play to Earn要素はどこにあるのか&lt;br /&gt;トークン（ERC20、ERC 721）について&lt;br /&gt;F2Pモデルの課題と考えうる解決策&lt;br /&gt;総括&lt;br /&gt;</description>
+			<description>前提&lt;br /&gt;「有料プレイモデル」の特徴&lt;br /&gt;P2Eゲーム版「無料プレイモデル」の特徴&lt;br /&gt;F2Pモデルの具体例｜EmberSword&lt;br /&gt;Play to Earn要素はどこにあるのか&lt;br /&gt;トークン（ERC20、ERC 721）について&lt;br /&gt;F2Pモデルの課題と考えうる解決策&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 30 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rbwf0i02jddcf5mfv1ijc22gbhs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description></description>
 			<pubDate>Mon, 04 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTマーケットプレイスを比較し成功と失敗の要因を探る</title>
-			<link>https://hashhub-research.com/articles/2022-04-03-nft-marketplace-compare-analysis</link>
-			<guid isPermaLink="false">2022-04-03-nft-marketplace-compare-analysis</guid>
-			<description>前提&lt;br /&gt;海外NFTマーケットプレイスの比較分析&lt;br /&gt;国内NFTマーケットプレイスの比較分析&lt;br /&gt;</description>
-			<pubDate>Sun, 03 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3h15n6okpduye4ne99mojwx7088d/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
