@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ERC721の技術的改善を概観する -ERC721A/R/O/PSI-</title>
+			<link>https://hashhub-research.com/articles/20220506-erc721-a-r-o-psi</link>
+			<guid isPermaLink="false">20220506-erc721-a-r-o-psi</guid>
+			<description>前提&lt;br /&gt;ERC721A&lt;br /&gt;ERC721R&lt;br /&gt;ERC721O、ERC721PSI&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 06 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7clkiars9wmdv1j8h7zrojme3i62/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>GMX | 複数担保に対応した無期限先物取引プロトコル</title>
 			<link>https://hashhub-research.com/articles/20220504-about-gmx</link>
 			<guid isPermaLink="false">20220504-about-gmx</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;金融危機の預言者ゾルタン・ポズサー氏&lt;br /&gt;ブレトンウッズ体制の歴史&lt;br /&gt;経済制裁がもたらすドル基軸への影響&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 05 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l5kzptq3hr47dadr7w3r532m7avc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Mon, 04 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
