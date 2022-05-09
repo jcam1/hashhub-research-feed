@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
+			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
+			<guid isPermaLink="false">portfolio-disclosure</guid>
+			<description></description>
+			<pubDate>Mon, 09 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米国ステーブルコイン規制の最新事情</title>
 			<link>https://hashhub-research.com/articles/2022-05-07-stablecoin-regulation-update</link>
 			<guid isPermaLink="false">2022-05-07-stablecoin-regulation-update</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「RWAプロトコル」特集｜4月8日～4月21日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 08 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rn0r5jv7aesigwnub4c5xm7nghel/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFi Kingdoms｜マルチチェーン展開するメタバースゲームの概要</title>
-			<link>https://hashhub-research.com/articles/2022-04-07-about-defikingdoms</link>
-			<guid isPermaLink="false">2022-04-07-about-defikingdoms</guid>
-			<description>前提&lt;br /&gt;DeFiKingdomsの概要&lt;br /&gt;$JEWEL・$CRYSTALのTokenomics&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 07 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qzannye1vvmdfma6tpktwzyyy62o/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
