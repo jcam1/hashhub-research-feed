@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Yuga Labsとは</title>
+			<link>https://hashhub-research.com/articles/2022-05-10-about-yuga-labs</link>
+			<guid isPermaLink="false">2022-05-10-about-yuga-labs</guid>
+			<description></description>
+			<pubDate>Tue, 10 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jqn22xax6ptmv5hy0q7g5fujqfjz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
 			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
 			<guid isPermaLink="false">portfolio-disclosure</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;加速する円安&lt;br /&gt;円安がもたらす私達の生活への厳しい将来予想&lt;br /&gt;世界と繋がる暗号資産とパブリックブロックチェーン上の金融システム&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 09 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3x3j6ymq902fg87mcn79e7gltybv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「RWAプロトコル」特集｜4月8日～4月21日の期間限定レポート</title>
-			<link>https://hashhub-research.com/articles/2022-4-8-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-4-8-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「RWAプロトコル」特集｜4月8日～4月21日の期間限定レポート&lt;br /&gt;</description>
-			<pubDate>Fri, 08 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rn0r5jv7aesigwnub4c5xm7nghel/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
