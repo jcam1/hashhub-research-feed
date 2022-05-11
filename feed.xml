@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコインUSTの1ドルからの乖離とアルゴリズムステーブルコインの将来を考える</title>
+			<link>https://hashhub-research.com/articles/2022-05-11-ust-crash</link>
+			<guid isPermaLink="false">2022-05-11-ust-crash</guid>
+			<description>前提&lt;br /&gt;ステーブルコインUSTの1ドルからの乖離&lt;br /&gt;筆者のアルゴリズムステーブルコインの見解&lt;br /&gt;USTの問題はなんだったのか&lt;br /&gt;</description>
+			<pubDate>Wed, 11 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/unoke2vpvgiicd09bqxk4ansk0oe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Skyweaverの概要と考察｜無料プレイモデルのBCデジタルカードゲーム</title>
 			<link>https://hashhub-research.com/articles/2022-05-11-about-skywaever</link>
 			<guid isPermaLink="false">2022-05-11-about-skywaever</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;STEPNの概要&lt;br /&gt;流行の理由&lt;br /&gt;参入や継続の上で見るべき指標&lt;br /&gt;長期の持続可能性&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 12 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b6at2vjhpl2aiedq75kyz0mxtqr7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>コントリビュートの類型から“DAOで働く”を考える</title>
-			<link>https://hashhub-research.com/articles/2022-04-10-working-at-dao</link>
-			<guid isPermaLink="false">2022-04-10-working-at-dao</guid>
-			<description>前提&lt;br /&gt;プロトコルDAO&lt;br /&gt;コミュニテイDAO&lt;br /&gt;ハッカソンDAO&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 10 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d924c8sgcwcrgc8gbn0mfiry3313/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
