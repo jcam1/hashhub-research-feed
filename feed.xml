@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 22年5月</title>
+			<link>https://hashhub-research.com/articles/2022-05-19-nft-market</link>
+			<guid isPermaLink="false">2022-05-19-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;BAYC陣営の仕掛けるメタバースOthersideの土地販売&lt;br /&gt;OpenSeaがGEMを買収&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;付録： ニュースリスト&lt;br /&gt;</description>
+			<pubDate>Thu, 19 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tagpiuy9idkvk15agpj755z9vxin/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>各ステーブルコインのリスクに関する考察（USDC・USDT・BUSD・DAI・FRAX・MIM）</title>
 			<link>https://hashhub-research.com/articles/2022-05-18-risks-of-stablecoins</link>
 			<guid isPermaLink="false">2022-05-18-risks-of-stablecoins</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>前提&lt;br /&gt;Aelinの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 19 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tahi5fnqxeunhzk2un4aq2wg1n3w/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考：米金利上昇とQTがステーブルコイン市場に与える影響</title>
-			<link>https://hashhub-research.com/articles/2022-04-18-impact-of-rising-interest-rates-and-qt-on-the-stablecoin-market</link>
-			<guid isPermaLink="false">2022-04-18-impact-of-rising-interest-rates-and-qt-on-the-stablecoin-market</guid>
-			<description>前提&lt;br /&gt;上昇する長期金利と急激なQT予想&lt;br /&gt;米金利上昇・QTがステーブルコイン市場に逆風になる可能性&lt;br /&gt;金利上昇によってポジティブな影響を受ける可能性があるプレイヤー&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 18 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i616nxxa1d2xpujj3kkpddgmpi02/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
