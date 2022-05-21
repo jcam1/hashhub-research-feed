@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Dfinityと各プロトコルの使い方を動画で学ぶ -知識と給付金の取得を狙う-</title>
+			<link>https://hashhub-research.com/articles/2022-05-21-dfinity-movie-protocol-airdrop</link>
+			<guid isPermaLink="false">2022-05-21-dfinity-movie-protocol-airdrop</guid>
+			<description>前提&lt;br /&gt;Internet Identityの作成&lt;br /&gt;DSCVR&lt;br /&gt;district&lt;br /&gt;Nuance&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 21 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5nzx3xjn32p26thqt848sopphe09/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ポンジスキームのトークノミクス</title>
 			<link>https://hashhub-research.com/articles/2022-05-20-economics-of-ponzi</link>
 			<guid isPermaLink="false">2022-05-20-economics-of-ponzi</guid>
@@ -188,14 +196,6 @@ LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「NFT-Fiは金融プリミティブになり得るか？」特集｜4月22日～5月12日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 22 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qollju86mfnwnczpq6tjtyndcwjn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Curve Wars Part2 | カルテル（連合）形成と4Pool</title>
-			<link>https://hashhub-research.com/articles/2022-04-20-curve-war-part2</link>
-			<guid isPermaLink="false">2022-04-20-curve-war-part2</guid>
-			<description>前提&lt;br /&gt;Curve War現状、カルテルと4Pool&lt;br /&gt;Terraの狙いと効用およびリスクについての考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 20 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4l5mf9gstmczylg6y60nosk42io1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
