@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BSC上のSTEPNの歩き方 -オンチェーンデータによる現状と今後の分析-</title>
+			<link>https://hashhub-research.com/articles/20220524-stepn-bsc</link>
+			<guid isPermaLink="false">20220524-stepn-bsc</guid>
+			<description>前提&lt;br /&gt;Solanaの状況&lt;br /&gt;BSCユーザー数の状況&lt;br /&gt;BSC靴の状況&lt;br /&gt;AMAの影響&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 24 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r2eo3jcnm3xf6fvvjbyxrkc65a6u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0と医療の未来をつくるDeSciプロジェクト群【前編】｜VitaDAO・LabDAO</title>
 			<link>https://hashhub-research.com/articles/2022-05-23-about-desci</link>
 			<guid isPermaLink="false">2022-05-23-about-desci</guid>
@@ -188,14 +196,6 @@
 LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 27 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uq4mfndfbiu4xfmyuqaebczagevz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考・イーロン・マスクによるTwitterの買収提案を、Web3・クリプト的な視点でどのように捉えるか</title>
-			<link>https://hashhub-research.com/articles/2022-04-26-how-crypto-industry-see-twitter-acquisition</link>
-			<guid isPermaLink="false">2022-04-26-how-crypto-industry-see-twitter-acquisition</guid>
-			<description>前提&lt;br /&gt;イーロン・マスクによるTwitterの買収提案で今起こっていること&lt;br /&gt;イーロン・マスクのTwitterの買収提案の動機は何か&lt;br /&gt;インターネットサービスとしてのTwitterの特殊性&lt;br /&gt;Web3・クリプト的な視点で本事案をどのように捉えるか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 26 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8n7kvjg3as1kqy3mo808hyw71p2r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
