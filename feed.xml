@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0と医療の未来をつくるDeSciプロジェクト群【後編】｜Fleming Protocol・Molecule</title>
+			<link>https://hashhub-research.com/articles/2022-05-25-about-desci-2</link>
+			<guid isPermaLink="false">2022-05-25-about-desci-2</guid>
+			<description>Fleming Protocol｜患者主導のヘルスケアデータ管理&lt;br /&gt;Molecule｜バイオ医薬品を対象とした投資DAO及びマーケットプレイス&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 25 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kyasi7z1jzaguo9tif3mry0o1p6i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>BSC上のSTEPNの歩き方 -オンチェーンデータによる現状と今後の分析-</title>
 			<link>https://hashhub-research.com/articles/20220524-stepn-bsc</link>
 			<guid isPermaLink="false">20220524-stepn-bsc</guid>
@@ -187,15 +195,6 @@
 			<description>前提&lt;br /&gt;Polemosの特徴&lt;br /&gt;ガバナンストークン「PLMS」&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 28 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mn3cbvrlhknb0vzanyso338s5o7j/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTの技術動向を理解する -LayerZeroとOmnichainNFT-</title>
-			<link>https://hashhub-research.com/articles/2022-04-27-layerzero-omnichainnft</link>
-			<guid isPermaLink="false">2022-04-27-layerzero-omnichainnft</guid>
-			<description>前提&lt;br /&gt;
-LayerZero&lt;br /&gt;Omnichain NFT&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 27 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uq4mfndfbiu4xfmyuqaebczagevz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
