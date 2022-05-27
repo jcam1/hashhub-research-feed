@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「Rollupの基礎知識を養う」特集｜5月27日～6月9日の期間限定レポート</title>
+			<link>https://hashhub-research.com/articles/2022-5-27-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2022-5-27-free-report-for-limited-time</guid>
+			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「Rollupの基礎知識を養う」特集｜5月27日～6月9日の期間限定レポート&lt;br /&gt;</description>
+			<pubDate>Fri, 27 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i8gxie22bv8fj4uqvaq2u4jxg45v/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>高度化されたDeFiの攻撃 資産を守るために個人ができること</title>
 			<link>https://hashhub-research.com/articles/2022-05-26-sophisticated-defi-attacks</link>
 			<guid isPermaLink="false">2022-05-26-sophisticated-defi-attacks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;「有料プレイモデル」の特徴&lt;br /&gt;P2Eゲーム版「無料プレイモデル」の特徴&lt;br /&gt;F2Pモデルの具体例｜EmberSword&lt;br /&gt;Play to Earn要素はどこにあるのか&lt;br /&gt;トークン（ERC20、ERC 721）について&lt;br /&gt;F2Pモデルの課題と考えうる解決策&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 30 Apr 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rbwf0i02jddcf5mfv1ijc22gbhs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>SWIMの概要 マルチチェーン流動性プロトコルブリッジ</title>
-			<link>https://hashhub-research.com/articles/2022-04-29-swim-overview</link>
-			<guid isPermaLink="false">2022-04-29-swim-overview</guid>
-			<description>SWIMの概要&lt;br /&gt;SWIMトークン・主要投資家&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 29 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qoxr1o6orbgu8uc01wvpp5l65zyb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
