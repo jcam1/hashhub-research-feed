@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Primitive | 流動性提供者に焦点を当てたデリバティブ複製プロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-05-28-about-primitive</link>
+			<guid isPermaLink="false">2022-05-28-about-primitive</guid>
+			<description>前提&lt;br /&gt;Primitiveの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 28 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lmgvjgqxa67h50si34l3owd26lhq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>「Rollupの基礎知識を養う」特集｜5月27日～6月9日の期間限定レポート</title>
 			<link>https://hashhub-research.com/articles/2022-5-27-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2022-5-27-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>環境構築&lt;br /&gt;</description>
 			<pubDate>Mon, 02 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e9vck6z2i6nv8gw1s43usx0yltay/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Play to Earn(P2E)ゲームのビジネスモデルを考える｜有料プレイモデルと無料プレイモデル「EmberSword」の特徴</title>
-			<link>https://hashhub-research.com/articles/2022-04-30-about-business-models-for-p2e-games</link>
-			<guid isPermaLink="false">2022-04-30-about-business-models-for-p2e-games</guid>
-			<description>前提&lt;br /&gt;「有料プレイモデル」の特徴&lt;br /&gt;P2Eゲーム版「無料プレイモデル」の特徴&lt;br /&gt;F2Pモデルの具体例｜EmberSword&lt;br /&gt;Play to Earn要素はどこにあるのか&lt;br /&gt;トークン（ERC20、ERC 721）について&lt;br /&gt;F2Pモデルの課題と考えうる解決策&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 30 Apr 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rbwf0i02jddcf5mfv1ijc22gbhs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
