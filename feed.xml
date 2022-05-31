@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Trader Joeの概要　Avalanchの分散型取引所によるveTokenモデルを用いた成長戦略</title>
+			<link>https://hashhub-research.com/articles/2022-05-31-trader-joe-overview</link>
+			<guid isPermaLink="false">2022-05-31-trader-joe-overview</guid>
+			<description>前提&lt;br /&gt;Trader Joeの概要&lt;br /&gt;JOEトークンの概要&lt;br /&gt;分散型取引所におけるveTokenモデルの考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 31 May 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fz1x1nzvv62i5g5u4g1kwc9sez4h/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Primitive | 流動性提供者に焦点を当てたデリバティブ複製プロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-05-28-about-primitive</link>
 			<guid isPermaLink="false">2022-05-28-about-primitive</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Nansenを用いてアルファを探す&lt;br /&gt;1.『違和感のある点を探す』｜参考アドレスの特定とアルファ探し&lt;br /&gt;2.『線（文脈）を理解する』｜追跡アドレスの資産状況を分析し、現状理解と今後の流れを予測する&lt;br /&gt;３.保有しているトークンをDumpから防衛する&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 03 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bto758sc2yohvsr5jxth4re5k5ng/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Cosmos SDKを使ってブロックチェーンを作ってみよう 前編 </title>
-			<link>https://hashhub-research.com/articles/2022-05-02-try-make-your-blockchain-by-cosmossdk</link>
-			<guid isPermaLink="false">2022-05-02-try-make-your-blockchain-by-cosmossdk</guid>
-			<description>環境構築&lt;br /&gt;</description>
-			<pubDate>Mon, 02 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e9vck6z2i6nv8gw1s43usx0yltay/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
