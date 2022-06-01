@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Clearpool | 機関投資家向けレンディングプロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-06-1-about-clearpool</link>
+			<guid isPermaLink="false">2022-06-1-about-clearpool</guid>
+			<description>前提&lt;br /&gt;ClearPoolにおけるクレジットスコアリング&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 01 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ilgpc5dy5dfbtl6s4232ruf964wr/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Trader Joeの概要　Avalanchの分散型取引所によるveTokenモデルを用いた成長戦略</title>
 			<link>https://hashhub-research.com/articles/2022-05-31-trader-joe-overview</link>
 			<guid isPermaLink="false">2022-05-31-trader-joe-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;GMXが提供する機能と競合プロトコルとの違い&lt;br /&gt;GMXトークンのトークノミクス&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 04 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6rv0f2vw711h5vnd0cj3l5hzw3cn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【初心者向け】オンチェーン分析ツール「Nansen」を使って次のアルファを探す方法</title>
-			<link>https://hashhub-research.com/articles/2022-5-3-how-to-use-nansen</link>
-			<guid isPermaLink="false">2022-5-3-how-to-use-nansen</guid>
-			<description>前提&lt;br /&gt;Nansenを用いてアルファを探す&lt;br /&gt;1.『違和感のある点を探す』｜参考アドレスの特定とアルファ探し&lt;br /&gt;2.『線（文脈）を理解する』｜追跡アドレスの資産状況を分析し、現状理解と今後の流れを予測する&lt;br /&gt;３.保有しているトークンをDumpから防衛する&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 03 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bto758sc2yohvsr5jxth4re5k5ng/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
