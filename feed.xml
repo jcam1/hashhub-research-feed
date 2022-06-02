@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTレゴの事例と考察｜トークンを紐づけるフレームワーク</title>
+			<link>https://hashhub-research.com/articles/2022-06-02-about-nft-lego</link>
+			<guid isPermaLink="false">2022-06-02-about-nft-lego</guid>
+			<description>前提&lt;br /&gt;NFTレゴとは&lt;br /&gt;特徴について&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f1p4r11izovhh9ewwz6mr3psepm5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Clearpool | 機関投資家向けレンディングプロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-06-1-about-clearpool</link>
 			<guid isPermaLink="false">2022-06-1-about-clearpool</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ERC721A&lt;br /&gt;ERC721R&lt;br /&gt;ERC721O、ERC721PSI&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 06 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7clkiars9wmdv1j8h7zrojme3i62/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>GMX | 複数担保に対応した無期限先物取引プロトコル</title>
-			<link>https://hashhub-research.com/articles/20220504-about-gmx</link>
-			<guid isPermaLink="false">20220504-about-gmx</guid>
-			<description>前提&lt;br /&gt;GMXが提供する機能と競合プロトコルとの違い&lt;br /&gt;GMXトークンのトークノミクス&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 04 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6rv0f2vw711h5vnd0cj3l5hzw3cn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
