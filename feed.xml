@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>クリプト業界で定期的に起こる世代交代に向き合う思考法</title>
+			<link>https://hashhub-research.com/articles/2022-06-03-way-of-thinking-the0generational-changes-crypto</link>
+			<guid isPermaLink="false">2022-06-03-way-of-thinking-the0generational-changes-crypto</guid>
+			<description>前提&lt;br /&gt;定期的に起こるクリプトの世代交代の必然性と俯瞰&lt;br /&gt;価値観をアップデートするための問い「今一番かっこいいプレイヤーは誰か？」&lt;br /&gt;2022年の新しい世代であるWeb3のナラティブについて私の姿勢&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 03 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/umtwlv0kk4d5268capncw0jo3j2w/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTレゴの事例と考察｜トークンを紐づけるフレームワーク</title>
 			<link>https://hashhub-research.com/articles/2022-06-02-about-nft-lego</link>
 			<guid isPermaLink="false">2022-06-02-about-nft-lego</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ステーブルコインが問題視される理由&lt;br /&gt;連邦規制当局の体制&lt;br /&gt;議論のテーマ&lt;br /&gt;具体的な取り組み&lt;br /&gt;総括&lt;br /&gt;付録&lt;br /&gt;出所、補足&lt;br /&gt;</description>
 			<pubDate>Sat, 07 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5z16x46mq57efvgt0lf33zs0o6nf/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ERC721の技術的改善を概観する -ERC721A/R/O/PSI-</title>
-			<link>https://hashhub-research.com/articles/20220506-erc721-a-r-o-psi</link>
-			<guid isPermaLink="false">20220506-erc721-a-r-o-psi</guid>
-			<description>前提&lt;br /&gt;ERC721A&lt;br /&gt;ERC721R&lt;br /&gt;ERC721O、ERC721PSI&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 06 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7clkiars9wmdv1j8h7zrojme3i62/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
