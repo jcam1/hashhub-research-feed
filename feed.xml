@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3が描くクリエイターエコノミーの産物｜Writing NFTの実態考察</title>
+			<link>https://hashhub-research.com/articles/2022-06-06-web3-creator-economy</link>
+			<guid isPermaLink="false">2022-06-06-web3-creator-economy</guid>
+			<description>前提&lt;br /&gt;ボトムアップで作られるコンテンツとは何か&lt;br /&gt;キャッサバの食し方とその伝承｜信じて従う（群れる）ヒトの心の正体&lt;br /&gt;Writing NFTとは何を表すものか&lt;br /&gt;MirrorDAOのコレクション記事（5月分のみ）&lt;br /&gt;Writing NFTは結局何を表すものなのか&lt;br /&gt;</description>
+			<pubDate>Mon, 06 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9gsmzbss7mm1ff7jqpfaa9y75zv0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>月刊DAOレポート6月：DAO2DAOの動き</title>
 			<link>https://hashhub-research.com/articles/2022-06-04-monthly-dao</link>
 			<guid isPermaLink="false">2022-06-04-monthly-dao</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 10 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/51dkiq5rqco07ij42345hptrn5hy/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Mon, 09 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
