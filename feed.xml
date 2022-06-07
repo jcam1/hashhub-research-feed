@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「xx to Earn」の利点と課題 サービス開発者・提供者がSTEPNから学べること</title>
+			<link>https://hashhub-research.com/articles/2022-06-07-benefit-and-weak-point-of-xx-to-earn</link>
+			<guid isPermaLink="false">2022-06-07-benefit-and-weak-point-of-xx-to-earn</guid>
+			<description>前提&lt;br /&gt;STEPNは「xx to Earn」のアプリケーションとして何が凄かったか&lt;br /&gt;「xx to Earn」の課題&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 07 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sacc8vo90hov51ntdpjs6etw90gm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3が描くクリエイターエコノミーの産物｜Writing NFTの実態考察</title>
 			<link>https://hashhub-research.com/articles/2022-06-06-web3-creator-economy</link>
 			<guid isPermaLink="false">2022-06-06-web3-creator-economy</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt;無料プレイモデル&lt;br /&gt;持続性の考察&lt;br /&gt;トークンの可能性&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 11 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6lsu6dd8d6v8ckb7x1qwj0rbckjy/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Yuga Labsとは</title>
-			<link>https://hashhub-research.com/articles/2022-05-10-about-yuga-labs</link>
-			<guid isPermaLink="false">2022-05-10-about-yuga-labs</guid>
-			<description></description>
-			<pubDate>Tue, 10 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/51dkiq5rqco07ij42345hptrn5hy/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
