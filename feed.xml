@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3の片鱗（1）｜DAOは不純物X％含有の新たなコミュニティ形態なのか</title>
+			<link>https://hashhub-research.com/articles/2022-06-13-piece-of-web3-1</link>
+			<guid isPermaLink="false">2022-06-13-piece-of-web3-1</guid>
+			<description>前提&lt;br /&gt;真のコミュニティは、反省、批判、実験へ向かう動機付けを持っていない&lt;br /&gt;真のコミュニティにはコンセンサスは必要がない&lt;br /&gt;純度X％のアソシエーション、不純度X%のコミュニティ&lt;br /&gt;コミュニティ&lt;&gt;アソシエーション軸で捉えた共同体の大まかな分類と及びその長所と短所&lt;br /&gt;「FT」「NFT」「SSI/DID」という名の人工的な防御壁を活用するWeb3共同体&lt;br /&gt;</description>
+			<pubDate>Mon, 13 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/aidwzb7hxph475m2iszf9vrhq92a/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>「（許容できるリスクの範囲で）とにかく触ってみよう」特集｜6月10日～6月23日の期間限定レポート</title>
 			<link>https://hashhub-research.com/articles/2022-06-10-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2022-06-10-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ステーブルコインの崩壊によって市場参加者はどのようなリスクに気をつけるべきか&lt;br /&gt;各ステーブルコインのリスクに関する考察（USDC・USDT・BUSD・DAI・FRAX・MIM）&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 18 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8wmx1rpw7wn6bl8w4izpitkuk1fw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Atlantis Worldの概要と考察｜Web3.0ソーシャル・メタバース</title>
-			<link>https://hashhub-research.com/articles/2022-05-17-about-atlantis-world</link>
-			<guid isPermaLink="false">2022-05-17-about-atlantis-world</guid>
-			<description>前提&lt;br /&gt;概要：Atlantis Worldとは&lt;br /&gt;考察：今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 17 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5egqa2p54byzhdfxkhvte3nahxj2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
