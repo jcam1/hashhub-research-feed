@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペッグ通貨の歴史と必要な要件</title>
+			<link>https://hashhub-research.com/articles/2022-06-14-about-peg-token</link>
+			<guid isPermaLink="false">2022-06-14-about-peg-token</guid>
+			<description>前提&lt;br /&gt;既存金融にみるペッグ通貨とリスク&lt;br /&gt;暗号資産の世界におけるペッグトークン&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 14 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2ljkv3ezqirhx42ysoh27a4ze84u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3の片鱗（1）｜DAOは不純物X％含有の新たなコミュニティ形態なのか</title>
 			<link>https://hashhub-research.com/articles/2022-06-13-piece-of-web3-1</link>
 			<guid isPermaLink="false">2022-06-13-piece-of-web3-1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;BAYC陣営の仕掛けるメタバースOthersideの土地販売&lt;br /&gt;OpenSeaがGEMを買収&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;付録： ニュースリスト&lt;br /&gt;</description>
 			<pubDate>Thu, 19 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tagpiuy9idkvk15agpj755z9vxin/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>各ステーブルコインのリスクに関する考察（USDC・USDT・BUSD・DAI・FRAX・MIM）</title>
-			<link>https://hashhub-research.com/articles/2022-05-18-risks-of-stablecoins</link>
-			<guid isPermaLink="false">2022-05-18-risks-of-stablecoins</guid>
-			<description>前提&lt;br /&gt;ステーブルコインの崩壊によって市場参加者はどのようなリスクに気をつけるべきか&lt;br /&gt;各ステーブルコインのリスクに関する考察（USDC・USDT・BUSD・DAI・FRAX・MIM）&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 18 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8wmx1rpw7wn6bl8w4izpitkuk1fw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
