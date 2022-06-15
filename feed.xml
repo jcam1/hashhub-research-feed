@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereum分裂騒動の仮説と考慮すべき要素</title>
+			<link>https://hashhub-research.com/articles/2022-06-15-about-ethereum</link>
+			<guid isPermaLink="false">2022-06-15-about-ethereum</guid>
+			<description>前提&lt;br /&gt;Ethereumチェーン分裂の可能性考察&lt;br /&gt;2022年6月現在でのMining Pool情勢&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 15 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3gueyxsy2l5jynm6305ldi9dxk64/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ペッグ通貨の歴史と必要な要件</title>
 			<link>https://hashhub-research.com/articles/2022-06-14-about-peg-token</link>
 			<guid isPermaLink="false">2022-06-14-about-peg-token</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ポンジスキームのエコノミクス&lt;br /&gt;Web3.0プロジェクトにおけるエコノミクス&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 20 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vos9pzqjbb4pkinwc9o4h26p2gp5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 22年5月</title>
-			<link>https://hashhub-research.com/articles/2022-05-19-nft-market</link>
-			<guid isPermaLink="false">2022-05-19-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;BAYC陣営の仕掛けるメタバースOthersideの土地販売&lt;br /&gt;OpenSeaがGEMを買収&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;付録： ニュースリスト&lt;br /&gt;</description>
-			<pubDate>Thu, 19 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tagpiuy9idkvk15agpj755z9vxin/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
