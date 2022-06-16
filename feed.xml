@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ビットコインのエネルギー問題とは？｜論点整理と今後の見通し</title>
+			<link>https://hashhub-research.com/articles/2022-06-16-bitcoin-energy-issues</link>
+			<guid isPermaLink="false">2022-06-16-bitcoin-energy-issues</guid>
+			<description>前提&lt;br /&gt;</description>
+			<pubDate>Thu, 16 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/atqyc6imm84p4j1vic1pfqlra09w/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereum分裂騒動の仮説と考慮すべき要素</title>
 			<link>https://hashhub-research.com/articles/2022-06-15-about-ethereum</link>
 			<guid isPermaLink="false">2022-06-15-about-ethereum</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Internet Identityの作成&lt;br /&gt;DSCVR&lt;br /&gt;district&lt;br /&gt;Nuance&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 21 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5nzx3xjn32p26thqt848sopphe09/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ポンジスキームのトークノミクス</title>
-			<link>https://hashhub-research.com/articles/2022-05-20-economics-of-ponzi</link>
-			<guid isPermaLink="false">2022-05-20-economics-of-ponzi</guid>
-			<description>前提&lt;br /&gt;ポンジスキームのエコノミクス&lt;br /&gt;Web3.0プロジェクトにおけるエコノミクス&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 20 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vos9pzqjbb4pkinwc9o4h26p2gp5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
