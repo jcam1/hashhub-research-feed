@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>STEPNはどうすればよかったのか -Axieと比較し今後のGameFiに活かすケーススタディ-</title>
+			<link>https://hashhub-research.com/articles/2022-06-21-stepn-axie-review</link>
+			<guid isPermaLink="false">2022-06-21-stepn-axie-review</guid>
+			<description>前提&lt;br /&gt;BSC STEPNの経緯&lt;br /&gt;Axieとの比較&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 21 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ky7vegc0fwy3g8j78x5e14s7s8pk/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3の片鱗（2）｜僕らの退屈な日々を彩るのは「楽しさ」ではなく「興奮」である〜ミームNFTに垣間見る退屈さ〜</title>
 			<link>https://hashhub-research.com/articles/2022-06-20-piece-of-web3-1</link>
 			<guid isPermaLink="false">2022-06-20-piece-of-web3-1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Solanaの状況&lt;br /&gt;BSCユーザー数の状況&lt;br /&gt;BSC靴の状況&lt;br /&gt;AMAの影響&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 24 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r2eo3jcnm3xf6fvvjbyxrkc65a6u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0と医療の未来をつくるDeSciプロジェクト群【前編】｜VitaDAO・LabDAO</title>
-			<link>https://hashhub-research.com/articles/2022-05-23-about-desci</link>
-			<guid isPermaLink="false">2022-05-23-about-desci</guid>
-			<description>前提&lt;br /&gt;VitaDAO｜長寿研究を対象とした投資DAO&lt;br /&gt;LabDAO｜生物医学研究のためのオープンツール開発コミュニティ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 23 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g9cztnneb0te1b2q9an0m21fbegv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
