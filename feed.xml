@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>分散型ワーキンググループとしてのDAOと事業体の構造とは</title>
+			<link>https://hashhub-research.com/articles/2022-06-22-decentralized-working-group</link>
+			<guid isPermaLink="false">2022-06-22-decentralized-working-group</guid>
+			<description>前提&lt;br /&gt;分散型ワーキンググループとは&lt;br /&gt;事業体構造を持つDAO&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 22 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/avrpe36t0ijcrtw01wj1wdiowtq2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>STEPNはどうすればよかったのか -Axieと比較し今後のGameFiに活かすケーススタディ-</title>
 			<link>https://hashhub-research.com/articles/2022-06-21-stepn-axie-review</link>
 			<guid isPermaLink="false">2022-06-21-stepn-axie-review</guid>
@@ -187,14 +195,6 @@
 			<description>Fleming Protocol｜患者主導のヘルスケアデータ管理&lt;br /&gt;Molecule｜バイオ医薬品を対象とした投資DAO及びマーケットプレイス&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 25 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kyasi7z1jzaguo9tif3mry0o1p6i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>BSC上のSTEPNの歩き方 -オンチェーンデータによる現状と今後の分析-</title>
-			<link>https://hashhub-research.com/articles/20220524-stepn-bsc</link>
-			<guid isPermaLink="false">20220524-stepn-bsc</guid>
-			<description>前提&lt;br /&gt;Solanaの状況&lt;br /&gt;BSCユーザー数の状況&lt;br /&gt;BSC靴の状況&lt;br /&gt;AMAの影響&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 24 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r2eo3jcnm3xf6fvvjbyxrkc65a6u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
