@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>dYdX Chainの概要　分散型無期限先物取引所プロジェクトはなぜ独自ブロックチェーンを構築するのか</title>
+			<link>https://hashhub-research.com/articles/2022-06-27-dydx-chain</link>
+			<guid isPermaLink="false">2022-06-27-dydx-chain</guid>
+			<description>前提&lt;br /&gt;dYdX Chainの概要&lt;br /&gt;分散型無期限先物取引所プロジェクトはなぜ独自ブロックチェーンを構築するのか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 27 Jun 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v6bq024pyewju81ox765ncssgmf7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Arbitrum Oddeseyの概要とやり方を動画で学ぶ -ブリッジとアグリゲーターの種類と今後の傾向の解説-</title>
 			<link>https://hashhub-research.com/articles/20220624-arbitrum-oddesey1</link>
 			<guid isPermaLink="false">20220624-arbitrum-oddesey1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Trader Joeの概要&lt;br /&gt;JOEトークンの概要&lt;br /&gt;分散型取引所におけるveTokenモデルの考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 31 May 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fz1x1nzvv62i5g5u4g1kwc9sez4h/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Primitive | 流動性提供者に焦点を当てたデリバティブ複製プロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-05-28-about-primitive</link>
-			<guid isPermaLink="false">2022-05-28-about-primitive</guid>
-			<description>前提&lt;br /&gt;Primitiveの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 28 May 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lmgvjgqxa67h50si34l3owd26lhq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
