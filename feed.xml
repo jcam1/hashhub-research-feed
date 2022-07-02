@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web5をはじめとするGlobal Verification Network入門【後編】｜Disco.xyz,Gitcoin passportにみるVCのユースケースと将来像</title>
+			<link>https://hashhub-research.com/articles/2022-07-02-global-verification-network-2</link>
+			<guid isPermaLink="false">2022-07-02-global-verification-network-2</guid>
+			<description>前提&lt;br /&gt;Disco.xyz｜パブリックブロックチェーン上のSSIソリューション&lt;br /&gt;Disco.xyzの現状からみえる今後必要とする措置&lt;br /&gt;Gitcoin passport&lt;br /&gt;</description>
+			<pubDate>Sat, 02 Jul 2022 00:00:00 </pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k3ps6hgx335ayib5acqbkdsmms4t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>冬の時代の過ごし方 -損失を避け春に利益を上げる過ごし方と相場転換のきっかけを学ぶ-</title>
 			<link>https://hashhub-research.com/articles/2022-06-30-winter-stay-revival</link>
 			<guid isPermaLink="false">2022-06-30-winter-stay-revival</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;DAO2DAOの動き&lt;br /&gt;投資DAOからサービスDAOへ&lt;br /&gt;レピュテーション・IDツール&lt;br /&gt;フルタイムの貢献と法的枠組み&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 04 Jun 2022 00:00:00 </pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o0ge60b8rjvs5hm10rrkzbzmycpe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>クリプト業界で定期的に起こる世代交代に向き合う思考法</title>
-			<link>https://hashhub-research.com/articles/2022-06-03-way-of-thinking-the0generational-changes-crypto</link>
-			<guid isPermaLink="false">2022-06-03-way-of-thinking-the0generational-changes-crypto</guid>
-			<description>前提&lt;br /&gt;定期的に起こるクリプトの世代交代の必然性と俯瞰&lt;br /&gt;価値観をアップデートするための問い「今一番かっこいいプレイヤーは誰か？」&lt;br /&gt;2022年の新しい世代であるWeb3のナラティブについて私の姿勢&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 03 Jun 2022 00:00:00 </pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/umtwlv0kk4d5268capncw0jo3j2w/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
